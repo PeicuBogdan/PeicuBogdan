@@ -3,7 +3,7 @@ Hi there 👋
 
 I'm Bogdan, a robotics and automation engineer in Romania.
 
-🔭 I'm currently working on industrial robots at Schaeffler (ABB, Universal Robots, KUKA) and on ApplyFlow, a job-application manager I'm building with AI writing most of the code
+🔭 I'm currently working on industrial robots at Schaeffler (ABB, Universal Robots, KUKA) and on ApplyFlow, a job-application manager
 
 🌱 I'm currently learning PyTorch, ONNX Runtime and agentic AI. MSc in quantum computing at POLITEHNICA Bucharest starts this October
 

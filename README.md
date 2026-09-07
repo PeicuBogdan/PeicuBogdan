@@ -9,7 +9,7 @@ I'm Bogdan, a robotics and automation engineer in Romania.
 
 👯 I'm looking to collaborate on anything where software meets hardware: robotics, motion control, 3D printing, embedded Python
 
-🤔 I'm looking for help with going deeper into ML, moving from using models to training and evaluating them properly
+🤔 I'm interested in applied ML on industrial data — anomaly detection, predictive maintenance, and evaluating models properly rather than just running them
 
 💬 Ask me about my delta 3D printer, Klipper tuning, commissioning a robotic cell, or getting useful work out of an LLM
 

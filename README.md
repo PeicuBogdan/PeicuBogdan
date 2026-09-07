@@ -22,4 +22,4 @@ LinkedIn :  www.linkedin.com/in/bogdan-peicu-b32894297
 
 ⚡ Fun fact: I designed, wired, tuned and printed with a delta printer I built from scratch. The hardest part wasn't the mechanics, it was input shaping
 
-Stack: Python · C/C++ · C# · Java · MATLAB · ROS2 · Linux · Git · NumPy · CATIA V5
+Stack: Python · C/C++ · C# · Java · MATLAB · NumPy · pandas · scikit-learn · PyTorch · ROS2 · Linux · Git · Docker · CATIA V5
